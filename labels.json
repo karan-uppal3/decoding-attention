@@ -1,0 +1,22 @@
+{
+    "unlabeled": 0,
+    "person": 1, 
+    "bicycle": 2, 
+    "car": 3, 
+    "motorcycle": 4, 
+    "bus": 5, 
+    "traffic light": 6, 
+    "stop sign": 7, 
+    "bench": 8, 
+    "backpack": 9, 
+    "umbrella": 10, 
+    "handbag": 11, 
+    "frisbee": 12, 
+    "skis": 13, 
+    "sports ball": 14, 
+    "tennis racket": 15, 
+    "chair": 16, 
+    "potted plant": 17, 
+    "refrigerator": 18, 
+    "vase": 19
+}
